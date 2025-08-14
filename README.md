@@ -65,8 +65,8 @@ This project creates an AI-powered executive assistant that:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/zoom-ai-assistant.git
-cd zoom-ai-assistant
+git clone https://github.com/eliteaimarch/AI-Zoom-Assistant.git
+cd AI-Zoom-Assistant
 ```
 
 ### 2. Backend Setup
